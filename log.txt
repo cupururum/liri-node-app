@@ -1,0 +1,231 @@
+************************************* node liri my-tweets *************************************
+>>>>
+Created at : Tue Jan 23 06:06:15 +0000 2018
+Tweet : “The ships hung in the sky in much the same way that bricks don't.” 
+― Douglas Adams, The Hitchhiker's Guide to the… https://t.co/hoVy8aAm5v
+>>>>
+Created at : Tue Jan 23 06:04:05 +0000 2018
+Tweet : “Don't Panic.” 
+― Douglas Adams, The Hitchhiker's Guide to the Galaxy #42 #dontpanic #towel
+>>>>
+Tweet : “A deception that elevates us is dearer than a host of low truths.” 
+― Alexander Pushkin #pushkin
+Created at : Tue Jan 23 06:02:09 +0000 2018
+>>>>
+Created at : Tue Jan 23 06:01:06 +0000 2018
+Tweet : “You are an old pig!'one of them said to the other. 'And that is worse than being a young one.” 
+― Ivan Turgenev, Fathers and Sons #turgenev
+>>>>
+Created at : Tue Jan 23 06:00:26 +0000 2018
+Tweet : “Death's an old story, but new for each person.” 
+― Ivan Turgenev, Fathers and Children #turgenev
+>>>>
+Created at : Tue Jan 23 05:58:29 +0000 2018
+Tweet : “A dog's spirit dies hard.” 
+― Mikhail Bulgakov, Heart of a Dog #bulgakov
+>>>>
+Tweet : “Why try to pursue what is completed?” 
+― Mikhail Bulgakov, The Master and Margarita #bulgakov
+Created at : Tue Jan 23 05:55:56 +0000 2018
+>>>>
+Created at : Tue Jan 23 05:55:07 +0000 2018
+Tweet : “manuscripts don't burn" - "(рукописи не горят)” 
+― Mikhail Bulgakov, The Master and Margarita #bulgakov
+Created at : Tue Jan 23 05:52:05 +0000 2018
+>>>>
+Tweet : Ostap Bender: [after yet another failure] Remember the famous Russian proverb: "The hungrier you get, the tastier t… https://t.co/b85OkfLbYT
+>>>>
+Created at : Tue Jan 23 05:48:31 +0000 2018
+Tweet : “Podkolyosin asked tragically, "Why are you keeping quiet, like the League of Nations?” 
+― Ilya Ilf, The Twelve Chairs
+>>>>
+Created at : Tue Jan 23 05:47:51 +0000 2018
+Tweet : “Let's put it to a vote. Shall the ballots be open or secret?"
+"We don't need Soviet-style voting," Charushnikov sa… https://t.co/nxeZmw2Ho8
+>>>>
+Created at : Tue Jan 23 05:44:35 +0000 2018
+Tweet : “People always clap for the wrong reasons.” 
+― J.D. Salinger, The Catcher in the Rye
+>>>>
+Created at : Mon Jan 22 23:30:26 +0000 2018
+Tweet : “He had slipped, climbed, rolled, searched, walked, persevered, that is all. Such is the secret of all triumphs.”… https://t.co/hBbZ8mjL8d
+>>>>
+Created at : Mon Jan 22 23:28:48 +0000 2018
+Tweet : “Knowledge is a weight added to conscience.” 
+― Victor Hugo, The Man Who Laughs
+>>>>
+Created at : Mon Jan 22 23:24:52 +0000 2018
+Tweet : “This is the most simple and basic component of life: our struggles determine our successes.” 
+― Mark Manson, The S… https://t.co/uXHPJdDdfE
+>>>>
+Created at : Mon Jan 22 23:23:18 +0000 2018
+Tweet : “Who you are is defined by what you’re willing to struggle for.” 
+― Mark Manson, The Subtle Art of Not Giving a F*c… https://t.co/NK5ocjCyh3
+>>>>
+Created at : Mon Jan 22 23:20:30 +0000 2018
+Tweet : “He really had been through death, but he had returned because he could not bear the solitude.” 
+― Gabriel García M… https://t.co/gfUgAtuZDv
+>>>>
+Created at : Mon Jan 22 23:19:36 +0000 2018
+Tweet : “The secret of a good old age is simply an honorable pact with solitude.”
+― Gabriel García Márquez, One Hundred Years of Solitude
+>>>>
+Tweet : “I'd like to see you move up to the goat class, where I think you belong.”
+― Philip K. Dick, Do Androids Dream of Electric Sheep?
+Created at : Mon Jan 22 23:17:32 +0000 2018
+>>>>
+Created at : Mon Jan 22 23:15:55 +0000 2018
+Tweet : “Forty-two,” said Deep Thought, with infinite majesty and calm.”
+---  Douglas Adams, Hitchhiker’s Guide to the Galaxy
+>>>>
+************************************* node liri spotify-this-song 'Let it Snow' *************************************
+>>>>
+Frank Sinatra
+Let It Snow! Let It Snow! Let It Snow!
+https://open.spotify.com/album/2QRrrjJcbfHSx79HbXLpdl
+Christmas Songs By Sinatra
+>>>>
+************************************* node liri spotify-this-song 'The Sign' *************************************
+>>>>
+Ty Dolla $ign
+Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+>>>>
+************************************* node liri movie-this 'harry potter' *************************************
+>>>>
+Title : Harry Potter and the Deathly Hallows: Part 2
+Year : 2011
+Rotten Tomatoes Rating : 96%
+IMDB Rating : 8.1
+Plot : Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Actors : Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+Country : USA, UK
+Language : English
+>>>>
+************************************* node liri my-tweets *************************************
+Created at : Tue Jan 23 06:06:15 +0000 2018
+>>>>
+Tweet : “The ships hung in the sky in much the same way that bricks don't.” 
+― Douglas Adams, The Hitchhiker's Guide to the… https://t.co/hoVy8aAm5v
+>>>>
+Created at : Tue Jan 23 06:04:05 +0000 2018
+Tweet : “Don't Panic.” 
+― Douglas Adams, The Hitchhiker's Guide to the Galaxy #42 #dontpanic #towel
+>>>>
+Created at : Tue Jan 23 06:02:09 +0000 2018
+Tweet : “A deception that elevates us is dearer than a host of low truths.” 
+― Alexander Pushkin #pushkin
+>>>>
+Created at : Tue Jan 23 06:01:06 +0000 2018
+Tweet : “You are an old pig!'one of them said to the other. 'And that is worse than being a young one.” 
+― Ivan Turgenev, Fathers and Sons #turgenev
+>>>>
+Created at : Tue Jan 23 06:00:26 +0000 2018
+Tweet : “Death's an old story, but new for each person.” 
+― Ivan Turgenev, Fathers and Children #turgenev
+>>>>
+Created at : Tue Jan 23 05:58:29 +0000 2018
+Tweet : “A dog's spirit dies hard.” 
+― Mikhail Bulgakov, Heart of a Dog #bulgakov
+>>>>
+Created at : Tue Jan 23 05:55:56 +0000 2018
+Tweet : “Why try to pursue what is completed?” 
+― Mikhail Bulgakov, The Master and Margarita #bulgakov
+>>>>
+Created at : Tue Jan 23 05:55:07 +0000 2018
+Tweet : “manuscripts don't burn" - "(рукописи не горят)” 
+― Mikhail Bulgakov, The Master and Margarita #bulgakov
+>>>>
+Created at : Tue Jan 23 05:52:05 +0000 2018
+Tweet : Ostap Bender: [after yet another failure] Remember the famous Russian proverb: "The hungrier you get, the tastier t… https://t.co/b85OkfLbYT
+>>>>
+Created at : Tue Jan 23 05:48:31 +0000 2018
+Tweet : “Podkolyosin asked tragically, "Why are you keeping quiet, like the League of Nations?” 
+― Ilya Ilf, The Twelve Chairs
+>>>>
+Tweet : “Let's put it to a vote. Shall the ballots be open or secret?"
+"We don't need Soviet-style voting," Charushnikov sa… https://t.co/nxeZmw2Ho8
+Created at : Tue Jan 23 05:47:51 +0000 2018
+>>>>
+Created at : Tue Jan 23 05:44:35 +0000 2018
+Tweet : “People always clap for the wrong reasons.” 
+― J.D. Salinger, The Catcher in the Rye
+>>>>
+Created at : Mon Jan 22 23:30:26 +0000 2018
+Tweet : “He had slipped, climbed, rolled, searched, walked, persevered, that is all. Such is the secret of all triumphs.”… https://t.co/hBbZ8mjL8d
+>>>>
+Created at : Mon Jan 22 23:28:48 +0000 2018
+Tweet : “Knowledge is a weight added to conscience.” 
+― Victor Hugo, The Man Who Laughs
+>>>>
+Created at : Mon Jan 22 23:24:52 +0000 2018
+Tweet : “This is the most simple and basic component of life: our struggles determine our successes.” 
+― Mark Manson, The S… https://t.co/uXHPJdDdfE
+>>>>
+Tweet : “Who you are is defined by what you’re willing to struggle for.” 
+― Mark Manson, The Subtle Art of Not Giving a F*c… https://t.co/NK5ocjCyh3
+Created at : Mon Jan 22 23:23:18 +0000 2018
+>>>>
+Created at : Mon Jan 22 23:20:30 +0000 2018
+Tweet : “He really had been through death, but he had returned because he could not bear the solitude.” 
+― Gabriel García M… https://t.co/gfUgAtuZDv
+>>>>
+Created at : Mon Jan 22 23:19:36 +0000 2018
+Tweet : “The secret of a good old age is simply an honorable pact with solitude.”
+― Gabriel García Márquez, One Hundred Years of Solitude
+>>>>
+Created at : Mon Jan 22 23:17:32 +0000 2018
+Tweet : “I'd like to see you move up to the goat class, where I think you belong.”
+― Philip K. Dick, Do Androids Dream of Electric Sheep?
+Created at : Mon Jan 22 23:15:55 +0000 2018
+>>>>
+Tweet : “Forty-two,” said Deep Thought, with infinite majesty and calm.”
+---  Douglas Adams, Hitchhiker’s Guide to the Galaxy
+>>>>
+************************************* node liri my-tweets *************************************
+>>>>
+Created at : Tue Jan 23 06:19:12 +0000 2018
+Tweet : Ahhhhh so cute! 😍 https://t.co/ghhyeSIGPZ
+>>>>
+Created at : Tue Jan 23 06:14:53 +0000 2018
+Tweet : Wow https://t.co/ujiNf8jZ6n
+>>>>
+Tweet : Me and JS... Till the early morning
+Created at : Tue Jan 23 06:14:38 +0000 2018
+>>>>
+Tweet : JS = java script
+Created at : Tue Jan 23 05:29:16 +0000 2018
+>>>>
+Created at : Sat Jan 20 22:31:42 +0000 2018
+Tweet : I can't decide if I love JS more that puppies... 👩‍💻💔🐶
+>>>>
+Created at : Sat Jan 20 22:30:25 +0000 2018
+Tweet : Couldn't sleep well tonight - was thinking about JS - my new love ❤️
+>>>>
+Created at : Sat Jan 20 22:29:28 +0000 2018
+Tweet : Oh how I love JavaScript
+>>>>
+************************************* node liri my-tweets *************************************
+Created at : Tue Jan 23 06:19:12 +0000 2018
+>>>>
+Tweet : Ahhhhh so cute! 😍 https://t.co/ghhyeSIGPZ
+>>>>
+Created at : Tue Jan 23 06:14:53 +0000 2018
+Tweet : Wow https://t.co/ujiNf8jZ6n
+>>>>
+Created at : Tue Jan 23 06:14:38 +0000 2018
+Tweet : Me and JS... Till the early morning
+>>>>
+Created at : Tue Jan 23 05:29:16 +0000 2018
+Tweet : JS = java script
+>>>>
+Tweet : I can't decide if I love JS more that puppies... 👩‍💻💔🐶
+Created at : Sat Jan 20 22:31:42 +0000 2018
+>>>>
+Created at : Sat Jan 20 22:30:25 +0000 2018
+Tweet : Couldn't sleep well tonight - was thinking about JS - my new love ❤️
+>>>>
+Created at : Sat Jan 20 22:29:28 +0000 2018
+Tweet : Oh how I love JavaScript
+>>>>
